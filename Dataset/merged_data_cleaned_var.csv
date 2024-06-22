@@ -1,0 +1,954 @@
+Species,Variety,Processing.Method,Total.Cup.Points,Moisture,Color
+Arabica,Other,Washed / Wet,89.92,0.12,Green
+Arabica,Other,Washed / Wet,88.83,0.12,Green
+Arabica,Other,Washed / Wet,88.75,0.11,Bluish-Green
+Arabica,Other,Natural / Dry,88.25,0.1,Green
+Arabica,Catimor,Washed / Wet,87.25,0.1,Green
+Arabica,Caturra,Washed / Wet,87.17,0.11,Green
+Arabica,Other,Washed / Wet,87.17,0.13,Green
+Arabica,Bourbon,Natural / Dry,86.92,0.12,Green
+Arabica,SL14,Washed / Wet,86.83,0.12,Green
+Arabica,Sumatra,Pulped natural / honey,86.58,0.0,Green
+Arabica,Bourbon,Natural / Dry,86.42,0.12,Green
+Arabica,Caturra,Washed / Wet,86.33,0.0,Blue-Green
+Arabica,SL34,Washed / Wet,86.25,0.12,Blue-Green
+Arabica,Caturra,Washed / Wet,86.17,0.1,Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,86.08,0.12,Green
+Arabica,SL28,Natural / Dry,86.08,0.11,Bluish-Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,86.08,0.11,Blue-Green
+Arabica,Caturra,Washed / Wet,86.0,0.12,Green
+Arabica,SL28,Washed / Wet,86.0,0.11,Green
+Arabica,Other,Washed / Wet,86.0,0.1,Blue-Green
+Arabica,Bourbon,Washed / Wet,85.92,0.1,Green
+Arabica,SL14,Natural / Dry,85.92,0.12,Green
+Arabica,Caturra,Washed / Wet,85.92,0.0,Blue-Green
+Arabica,Gesha,Washed / Wet,85.83,0.08,Bluish-Green
+Arabica,Bourbon,Washed / Wet,85.83,0.12,Green
+Arabica,Catuai,Washed / Wet,85.83,0.1,Bluish-Green
+Arabica,Bourbon,Washed / Wet,85.58,0.1,Blue-Green
+Arabica,SL28,Natural / Dry,85.5,0.1,Green
+Arabica,Other,Natural / Dry,85.5,0.12,Green
+Arabica,SL14,Washed / Wet,85.5,0.12,Green
+Arabica,Bourbon,Washed / Wet,85.5,0.11,Green
+Arabica,SL14,Washed / Wet,85.42,0.12,Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,85.42,0.11,Blue-Green
+Arabica,Catimor,Natural / Dry,85.33,0.1,Green
+Arabica,Pacamara,Natural / Dry,85.33,0.11,Green
+Arabica,Caturra,Washed / Wet,85.33,0.0,Bluish-Green
+Arabica,Caturra,Washed / Wet,85.33,0.1,Bluish-Green
+Arabica,SL34,Washed / Wet,85.33,0.0,Green
+Arabica,SL34,Washed / Wet,85.33,0.0,Green
+Arabica,Caturra,Washed / Wet,85.25,0.11,Green
+Arabica,Caturra,Natural / Dry,85.25,0.12,Green
+Arabica,Sumatra Lintong,Semi-washed / Semi-pulped,85.17,0.11,Green
+Arabica,Other,Natural / Dry,85.08,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,85.08,0.11,Bluish-Green
+Arabica,Caturra,Natural / Dry,85.08,0.11,Green
+Arabica,SL14,Washed / Wet,85.0,0.11,Green
+Arabica,Caturra,Washed / Wet,85.0,0.0,Green
+Arabica,Catuai,Washed / Wet,85.0,0.12,Green
+Arabica,Typica,Washed / Wet,85.0,0.09,Green
+Arabica,SL34,Washed / Wet,85.0,0.0,Green
+Arabica,Mundo Novo,Natural / Dry,85.0,0.12,Green
+Arabica,Caturra,Washed / Wet,84.92,0.12,Green
+Arabica,Typica,Semi-washed / Semi-pulped,84.92,0.11,Green
+Arabica,Other,Washed / Wet,84.92,0.12,Green
+Arabica,Caturra,Washed / Wet,84.92,0.11,Green
+Arabica,Bourbon,Natural / Dry,84.92,0.11,Green
+Arabica,Catuai,Natural / Dry,84.92,0.12,Green
+Arabica,Typica,Natural / Dry,84.83,0.0,Green
+Arabica,SL14,Natural / Dry,84.83,0.12,Green
+Arabica,Caturra,Pulped natural / honey,84.75,0.12,Green
+Arabica,SL34,Washed / Wet,84.75,0.13,Green
+Arabica,Catuai,Washed / Wet,84.75,0.11,Green
+Arabica,Bourbon,Washed / Wet,84.67,0.0,Blue-Green
+Arabica,Java,Washed / Wet,84.67,0.12,Green
+Arabica,Mundo Novo,Pulped natural / honey,84.67,0.12,Green
+Arabica,Catuai,Washed / Wet,84.67,0.1,Blue-Green
+Arabica,Bourbon,Washed / Wet,84.67,0.1,Green
+Arabica,Caturra,Washed / Wet,84.67,0.12,Green
+Arabica,Other,Other,84.67,0.08,Green
+Arabica,Catuai,Washed / Wet,84.67,0.11,Green
+Arabica,Typica,Washed / Wet,84.67,0.11,Green
+Arabica,Caturra,Washed / Wet,84.67,0.0,Green
+Arabica,SL28,Washed / Wet,84.67,0.11,Bluish-Green
+Arabica,Bourbon,Washed / Wet,84.67,0.11,Green
+Arabica,Bourbon,Washed / Wet,84.67,0.12,Green
+Arabica,Other,Washed / Wet,84.67,0.11,Blue-Green
+Arabica,SL34,Washed / Wet,84.58,0.11,Blue-Green
+Arabica,Other,Washed / Wet,84.58,0.0,Blue-Green
+Arabica,Caturra,Washed / Wet,84.58,0.0,Green
+Arabica,Peaberry,Washed / Wet,84.58,0.1,Bluish-Green
+Arabica,Pacas,Washed / Wet,84.58,0.11,Green
+Arabica,Bourbon,Washed / Wet,84.58,0.09,Green
+Arabica,SL28,Washed / Wet,84.58,0.0,Green
+Arabica,Caturra,Washed / Wet,84.58,0.0,Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,84.58,0.12,Bluish-Green
+Arabica,Caturra,Washed / Wet,84.58,0.11,Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,84.58,0.12,Green
+Arabica,Catuai,Semi-washed / Semi-pulped,84.58,0.11,Blue-Green
+Arabica,Caturra,Washed / Wet,84.5,0.1,Bluish-Green
+Arabica,SL14,Washed / Wet,84.5,0.11,Green
+Arabica,Catimor,Washed / Wet,84.5,0.1,Green
+Arabica,Caturra,Washed / Wet,84.5,0.11,Green
+Arabica,Other,Washed / Wet,84.5,0.12,Green
+Arabica,Other,Washed / Wet,84.5,0.0,Green
+Arabica,Bourbon,Washed / Wet,84.5,0.11,Green
+Arabica,SL28,Washed / Wet,84.5,0.11,Blue-Green
+Arabica,Typica,Washed / Wet,84.5,0.12,Green
+Arabica,Bourbon,Washed / Wet,84.5,0.11,Green
+Arabica,Caturra,Washed / Wet,84.42,0.1,Blue-Green
+Arabica,Mandheling,Other,84.42,0.0,Blue-Green
+Arabica,Caturra,Natural / Dry,84.42,0.0,Green
+Arabica,Caturra,Washed / Wet,84.42,0.0,Green
+Arabica,Typica,Washed / Wet,84.42,0.11,Blue-Green
+Arabica,Hawaiian Kona,Natural / Dry,84.42,0.11,Blue-Green
+Arabica,SL28,Washed / Wet,84.33,0.11,Green
+Arabica,Caturra,Washed / Wet,84.33,0.0,Green
+Arabica,Catuai,Washed / Wet,84.33,0.11,Green
+Arabica,Caturra,Natural / Dry,84.33,0.11,Green
+Arabica,Caturra,Washed / Wet,84.33,0.0,Green
+Arabica,Typica,Washed / Wet,84.33,0.12,Blue-Green
+Arabica,Typica,Washed / Wet,84.25,0.12,Blue-Green
+Arabica,Catimor,Natural / Dry,84.25,0.12,Green
+Arabica,Caturra,Natural / Dry,84.25,0.11,Green
+Arabica,Caturra,Washed / Wet,84.25,0.11,Green
+Arabica,Caturra,Washed / Wet,84.25,0.1,Green
+Arabica,Catimor,Natural / Dry,84.25,0.1,Green
+Arabica,Caturra,Washed / Wet,84.25,0.11,Green
+Arabica,Caturra,Washed / Wet,84.25,0.12,Green
+Arabica,Other,Washed / Wet,84.25,0.12,Green
+Arabica,Caturra,Natural / Dry,84.25,0.12,Green
+Arabica,Other,Washed / Wet,84.25,0.12,Green
+Arabica,Other,Washed / Wet,84.25,0.12,Green
+Arabica,Bourbon,Other,84.25,0.1,Green
+Arabica,Caturra,Washed / Wet,84.25,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,84.25,0.11,Bluish-Green
+Arabica,Typica,Semi-washed / Semi-pulped,84.25,0.12,Green
+Arabica,Bourbon,Washed / Wet,84.25,0.12,Green
+Arabica,Bourbon,Washed / Wet,84.25,0.1,Bluish-Green
+Arabica,Other,Natural / Dry,84.25,0.13,Green
+Arabica,Bourbon,Washed / Wet,84.17,0.13,Green
+Arabica,Caturra,Washed / Wet,84.17,0.0,Green
+Arabica,Caturra,Washed / Wet,84.17,0.09,Bluish-Green
+Arabica,Caturra,Washed / Wet,84.17,0.11,Green
+Arabica,Caturra,Washed / Wet,84.17,0.1,Green
+Arabica,Bourbon,Washed / Wet,84.17,0.1,Green
+Arabica,Caturra,Washed / Wet,84.17,0.0,Bluish-Green
+Arabica,Caturra,Natural / Dry,84.17,0.12,Bluish-Green
+Arabica,Caturra,Washed / Wet,84.17,0.0,Blue-Green
+Arabica,Gesha,Natural / Dry,84.17,0.1,Green
+Arabica,Other,Washed / Wet,84.17,0.13,Green
+Arabica,Other,Washed / Wet,84.17,0.12,Green
+Arabica,SL28,Washed / Wet,84.17,0.08,Green
+Arabica,Mundo Novo,Natural / Dry,84.17,0.11,Green
+Arabica,Bourbon,Washed / Wet,84.17,0.11,Green
+Arabica,Bourbon,Natural / Dry,84.17,0.11,Bluish-Green
+Arabica,Caturra,Washed / Wet,84.17,0.0,Green
+Arabica,Catuai,Natural / Dry,84.17,0.11,Bluish-Green
+Arabica,Other,Washed / Wet,84.17,0.11,Green
+Arabica,Mandheling,Natural / Dry,84.13,0.12,Bluish-Green
+Arabica,Caturra,Washed / Wet,84.08,0.0,Green
+Arabica,Typica,Washed / Wet,84.08,0.1,Bluish-Green
+Arabica,Bourbon,Washed / Wet,84.08,0.1,Green
+Arabica,Bourbon,Washed / Wet,84.08,0.1,Bluish-Green
+Arabica,Hawaiian Kona,Natural / Dry,84.08,0.11,Green
+Arabica,Typica,Washed / Wet,84.08,0.11,Green
+Arabica,Gesha,Natural / Dry,84.0,0.11,Green
+Arabica,Caturra,Washed / Wet,84.0,0.1,Green
+Arabica,Caturra,Washed / Wet,84.0,0.12,Green
+Arabica,Other,Washed / Wet,84.0,0.11,Green
+Arabica,Bourbon,Natural / Dry,84.0,0.1,Green
+Arabica,Bourbon,Other,84.0,0.1,Green
+Arabica,Caturra,Natural / Dry,84.0,0.12,Green
+Arabica,Caturra,Washed / Wet,84.0,0.12,Green
+Arabica,Other,Natural / Dry,84.0,0.09,Green
+Arabica,Yellow Bourbon,Natural / Dry,84.0,0.1,Green
+Arabica,Caturra,Washed / Wet,84.0,0.11,Green
+Arabica,SL34,Washed / Wet,84.0,0.0,Green
+Arabica,Other,Washed / Wet,84.0,0.12,Green
+Arabica,SL28,Washed / Wet,84.0,0.0,Bluish-Green
+Arabica,Other,Washed / Wet,84.0,0.1,Green
+Arabica,Bourbon,Natural / Dry,83.92,0.0,Green
+Arabica,Mundo Novo,Washed / Wet,83.92,0.11,Green
+Arabica,Catimor,Natural / Dry,83.92,0.1,Bluish-Green
+Arabica,Bourbon,Natural / Dry,83.92,0.11,Green
+Arabica,Typica,Washed / Wet,83.92,0.11,Green
+Arabica,Caturra,Washed / Wet,83.92,0.0,Green
+Arabica,Typica,Washed / Wet,83.92,0.06,Green
+Arabica,Caturra,Natural / Dry,83.92,0.12,Green
+Arabica,Typica,Washed / Wet,83.92,0.12,Blue-Green
+Arabica,Typica,Washed / Wet,83.92,0.0,Green
+Arabica,Caturra,Washed / Wet,83.83,0.0,Green
+Arabica,Caturra,Washed / Wet,83.83,0.0,Blue-Green
+Arabica,Bourbon,Washed / Wet,83.83,0.11,Green
+Arabica,Yellow Bourbon,Natural / Dry,83.83,0.0,Green
+Arabica,Typica,Washed / Wet,83.83,0.0,Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,83.83,0.0,Green
+Arabica,Catuai,Washed / Wet,83.83,0.1,Green
+Arabica,Bourbon,Washed / Wet,83.83,0.1,Green
+Arabica,Yellow Bourbon,Natural / Dry,83.83,0.1,Green
+Arabica,Caturra,Washed / Wet,83.83,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.83,0.11,Green
+Arabica,Bourbon,Natural / Dry,83.83,0.1,Green
+Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,83.83,0.12,Green
+Arabica,SL28,Washed / Wet,83.75,0.11,Green
+Arabica,Bourbon,Natural / Dry,83.75,0.11,Green
+Arabica,Caturra,Washed / Wet,83.75,0.11,Green
+Arabica,Typica,Natural / Dry,83.75,0.0,Green
+Arabica,Catimor,Washed / Wet,83.75,0.1,Green
+Arabica,Caturra,Natural / Dry,83.75,0.0,Green
+Arabica,Bourbon,Natural / Dry,83.75,0.12,Green
+Arabica,Other,Washed / Wet,83.75,0.12,Green
+Arabica,Caturra,Washed / Wet,83.75,0.0,Green
+Arabica,Other,Washed / Wet,83.75,0.0,Green
+Arabica,Caturra,Washed / Wet,83.75,0.0,Blue-Green
+Arabica,Caturra,Washed / Wet,83.75,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,83.75,0.0,Bluish-Green
+Arabica,Caturra,Washed / Wet,83.75,0.11,Bluish-Green
+Arabica,Bourbon,Natural / Dry,83.67,0.11,Green
+Arabica,SL28,Washed / Wet,83.67,0.11,Bluish-Green
+Arabica,Caturra,Washed / Wet,83.67,0.1,Green
+Arabica,Caturra,Washed / Wet,83.67,0.1,Green
+Arabica,Bourbon,Natural / Dry,83.67,0.11,Green
+Arabica,Caturra,Natural / Dry,83.67,0.1,Bluish-Green
+Arabica,Bourbon,Washed / Wet,83.67,0.1,Green
+Arabica,Caturra,Washed / Wet,83.67,0.0,Green
+Arabica,Caturra,Washed / Wet,83.67,0.0,Green
+Arabica,Bourbon,Washed / Wet,83.67,0.12,Green
+Arabica,Bourbon,Washed / Wet,83.67,0.11,Green
+Arabica,Caturra,Washed / Wet,83.67,0.11,Green
+Arabica,Caturra,Natural / Dry,83.67,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.67,0.11,Green
+Arabica,Typica,Washed / Wet,83.67,0.12,Green
+Arabica,Typica,Washed / Wet,83.67,0.12,Green
+Arabica,Caturra,Washed / Wet,83.67,0.1,Green
+Arabica,Bourbon,Natural / Dry,83.58,0.11,Green
+Arabica,Caturra,Washed / Wet,83.58,0.11,Green
+Arabica,Caturra,Washed / Wet,83.58,0.11,Green
+Arabica,Catimor,Washed / Wet,83.58,0.1,Green
+Arabica,Caturra,Washed / Wet,83.58,0.12,Green
+Arabica,Caturra,Washed / Wet,83.58,0.12,Green
+Arabica,SL14,Washed / Wet,83.58,0.12,Green
+Arabica,Caturra,Natural / Dry,83.58,0.0,Green
+Arabica,Caturra,Washed / Wet,83.58,0.12,Green
+Arabica,Typica,Other,83.58,0.11,Green
+Arabica,Caturra,Washed / Wet,83.58,0.11,Green
+Arabica,Caturra,Natural / Dry,83.58,0.11,Green
+Arabica,Catuai,Semi-washed / Semi-pulped,83.58,0.12,Blue-Green
+Arabica,Caturra,Washed / Wet,83.5,0.0,Bluish-Green
+Arabica,Caturra,Washed / Wet,83.5,0.0,Blue-Green
+Arabica,Caturra,Natural / Dry,83.5,0.0,Green
+Arabica,Bourbon,Washed / Wet,83.5,0.1,Bluish-Green
+Arabica,Caturra,Washed / Wet,83.5,0.12,Green
+Arabica,Ruiru 11,Washed / Wet,83.5,0.13,Green
+Arabica,Sumatra,Semi-washed / Semi-pulped,83.5,0.13,Bluish-Green
+Arabica,Caturra,Washed / Wet,83.5,0.11,Green
+Arabica,Caturra,Washed / Wet,83.5,0.1,Green
+Arabica,Caturra,Natural / Dry,83.5,0.1,Green
+Arabica,Caturra,Washed / Wet,83.5,0.0,Green
+Arabica,Caturra,Washed / Wet,83.5,0.11,Green
+Arabica,Bourbon,Natural / Dry,83.5,0.13,Green
+Arabica,Typica,Semi-washed / Semi-pulped,83.5,0.11,Green
+Arabica,Pacamara,Washed / Wet,83.5,0.12,Green
+Arabica,Caturra,Washed / Wet,83.5,0.1,Green
+Arabica,Caturra,Washed / Wet,83.5,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.5,0.0,Green
+Arabica,Caturra,Washed / Wet,83.42,0.0,Green
+Arabica,Bourbon,Washed / Wet,83.42,0.1,Green
+Arabica,Caturra,Washed / Wet,83.42,0.11,Green
+Arabica,Caturra,Washed / Wet,83.42,0.09,Blue-Green
+Arabica,SL14,Washed / Wet,83.42,0.11,Green
+Arabica,Catimor,Washed / Wet,83.42,0.13,Bluish-Green
+Arabica,Caturra,Natural / Dry,83.42,0.12,Green
+Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,83.42,0.12,Green
+Arabica,Bourbon,Washed / Wet,83.42,0.13,Green
+Arabica,Caturra,Washed / Wet,83.42,0.12,Green
+Arabica,Bourbon,Natural / Dry,83.42,0.1,Green
+Arabica,Caturra,Washed / Wet,83.42,0.1,Green
+Arabica,Bourbon,Washed / Wet,83.42,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,83.42,0.0,Green
+Arabica,Caturra,Washed / Wet,83.42,0.11,Green
+Arabica,Caturra,Washed / Wet,83.33,0.0,Blue-Green
+Arabica,Caturra,Washed / Wet,83.33,0.0,Green
+Arabica,Catuai,Semi-washed / Semi-pulped,83.33,0.1,Green
+Arabica,Caturra,Washed / Wet,83.33,0.12,Green
+Arabica,Caturra,Washed / Wet,83.33,0.11,Green
+Arabica,Other,Semi-washed / Semi-pulped,83.33,0.12,Green
+Arabica,Other,Washed / Wet,83.33,0.12,Green
+Arabica,Caturra,Washed / Wet,83.33,0.12,Green
+Arabica,Hawaiian Kona,Natural / Dry,83.33,0.11,Bluish-Green
+Arabica,Catuai,Washed / Wet,83.33,0.11,Green
+Arabica,Typica,Washed / Wet,83.33,0.11,Green
+Arabica,Caturra,Natural / Dry,83.33,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.33,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,83.33,0.1,Bluish-Green
+Arabica,Caturra,Washed / Wet,83.33,0.0,Green
+Arabica,Typica,Washed / Wet,83.25,0.11,Blue-Green
+Arabica,Catuai,Pulped natural / honey,83.25,0.11,Green
+Arabica,Pacas,Washed / Wet,83.25,0.11,Green
+Arabica,SL14,Washed / Wet,83.25,0.12,Green
+Arabica,Caturra,Natural / Dry,83.25,0.0,Green
+Arabica,Typica,Natural / Dry,83.25,0.12,Bluish-Green
+Arabica,Bourbon,Washed / Wet,83.25,0.1,Blue-Green
+Arabica,Typica,Washed / Wet,83.25,0.1,Green
+Arabica,Caturra,Natural / Dry,83.25,0.0,Green
+Arabica,Caturra,Washed / Wet,83.25,0.1,Green
+Arabica,Caturra,Washed / Wet,83.25,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.25,0.12,Green
+Arabica,Hawaiian Kona,Natural / Dry,83.25,0.11,Bluish-Green
+Arabica,Mundo Novo,Washed / Wet,83.25,0.13,Green
+Arabica,Caturra,Washed / Wet,83.25,0.12,Blue-Green
+Arabica,Bourbon,Washed / Wet,83.25,0.11,Green
+Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,83.25,0.11,Blue-Green
+Arabica,Caturra,Washed / Wet,83.25,0.12,Green
+Arabica,Caturra,Washed / Wet,83.25,0.11,Green
+Arabica,Bourbon,Natural / Dry,83.17,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.17,0.1,Green
+Arabica,Bourbon,Washed / Wet,83.17,0.12,Green
+Arabica,Caturra,Washed / Wet,83.17,0.11,Green
+Arabica,Catuai,Washed / Wet,83.17,0.11,Blue-Green
+Arabica,Catimor,Washed / Wet,83.17,0.11,Green
+Arabica,Catimor,Washed / Wet,83.17,0.1,Green
+Arabica,Bourbon,Washed / Wet,83.17,0.0,Green
+Arabica,Bourbon,Washed / Wet,83.17,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.17,0.12,Green
+Arabica,SL28,Washed / Wet,83.17,0.1,Bluish-Green
+Arabica,Other,Washed / Wet,83.17,0.13,Bluish-Green
+Arabica,SL14,Washed / Wet,83.17,0.1,Bluish-Green
+Arabica,Catuai,Natural / Dry,83.17,0.1,Green
+Arabica,Caturra,Natural / Dry,83.17,0.11,Green
+Arabica,Catuai,Washed / Wet,83.17,0.09,Green
+Arabica,Hawaiian Kona,Natural / Dry,83.17,0.11,Bluish-Green
+Arabica,Bourbon,Washed / Wet,83.17,0.12,Green
+Arabica,Bourbon,Washed / Wet,83.17,0.11,Green
+Arabica,Typica,Washed / Wet,83.17,0.11,Green
+Arabica,Caturra,Washed / Wet,83.17,0.11,Green
+Arabica,Typica,Washed / Wet,83.17,0.13,Green
+Arabica,Caturra,Washed / Wet,83.17,0.11,Blue-Green
+Arabica,Mundo Novo,Natural / Dry,83.17,0.12,Green
+Arabica,Mundo Novo,Natural / Dry,83.17,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.17,0.0,Green
+Arabica,Mundo Novo,Semi-washed / Semi-pulped,83.17,0.12,Blue-Green
+Arabica,Caturra,Washed / Wet,83.08,0.0,Green
+Arabica,Caturra,Washed / Wet,83.08,0.0,Green
+Arabica,Yellow Bourbon,Pulped natural / honey,83.08,0.11,Bluish-Green
+Arabica,Yellow Bourbon,Natural / Dry,83.08,0.0,Green
+Arabica,Typica,Natural / Dry,83.08,0.0,Green
+Arabica,Mundo Novo,Natural / Dry,83.08,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.08,0.0,Green
+Arabica,Catuai,Washed / Wet,83.08,0.1,Green
+Arabica,Hawaiian Kona,Natural / Dry,83.08,0.12,Bluish-Green
+Arabica,Hawaiian Kona,Natural / Dry,83.08,0.1,Bluish-Green
+Arabica,Hawaiian Kona,Washed / Wet,83.08,0.12,Green
+Arabica,Bourbon,Natural / Dry,83.0,0.0,Green
+Arabica,Bourbon,Natural / Dry,83.0,0.11,Green
+Arabica,Bourbon,Natural / Dry,83.0,0.11,Bluish-Green
+Arabica,Bourbon,Washed / Wet,83.0,0.12,Green
+Arabica,Bourbon,Natural / Dry,83.0,0.12,Green
+Arabica,Caturra,Other,83.0,0.0,Green
+Arabica,Catuai,Washed / Wet,83.0,0.11,Green
+Arabica,Catuai,Washed / Wet,83.0,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.0,0.11,Green
+Arabica,Catuai,Natural / Dry,83.0,0.0,Green
+Arabica,Typica,Washed / Wet,83.0,0.08,Green
+Arabica,SL14,Washed / Wet,83.0,0.12,Green
+Arabica,Other,Washed / Wet,83.0,0.0,Bluish-Green
+Arabica,Bourbon,Washed / Wet,83.0,0.1,Green
+Arabica,Catuai,Washed / Wet,83.0,0.11,Green
+Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,83.0,0.12,Bluish-Green
+Arabica,Caturra,Washed / Wet,83.0,0.11,Green
+Arabica,Caturra,Washed / Wet,83.0,0.0,Green
+Arabica,Caturra,Natural / Dry,83.0,0.11,Green
+Arabica,Caturra,Natural / Dry,83.0,0.0,Green
+Arabica,Caturra,Washed / Wet,83.0,0.11,Green
+Arabica,Typica,Washed / Wet,83.0,0.11,Green
+Arabica,Typica,Semi-washed / Semi-pulped,83.0,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.0,0.11,Green
+Arabica,Caturra,Washed / Wet,83.0,0.0,Green
+Arabica,Caturra,Washed / Wet,83.0,0.11,Green
+Arabica,Bourbon,Washed / Wet,83.0,0.1,Green
+Arabica,Caturra,Washed / Wet,83.0,0.12,Bluish-Green
+Arabica,Bourbon,Natural / Dry,82.92,0.0,Green
+Arabica,Bourbon,Washed / Wet,82.92,0.0,Green
+Arabica,Caturra,Washed / Wet,82.92,0.11,Green
+Arabica,Caturra,Natural / Dry,82.92,0.09,Green
+Arabica,Ethiopian Heirlooms,Washed / Wet,82.92,0.0,Bluish-Green
+Arabica,Typica,Natural / Dry,82.92,0.0,Green
+Arabica,Other,Washed / Wet,82.92,0.11,Blue-Green
+Arabica,Other,Washed / Wet,82.92,0.0,Bluish-Green
+Arabica,Typica,Natural / Dry,82.92,0.13,Blue-Green
+Arabica,Bourbon,Washed / Wet,82.92,0.12,Bluish-Green
+Arabica,Moka Peaberry,Semi-washed / Semi-pulped,82.92,0.11,Green
+Arabica,SL14,Washed / Wet,82.92,0.12,Green
+Arabica,SL14,Washed / Wet,82.92,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.92,0.1,Green
+Arabica,Caturra,Natural / Dry,82.92,0.1,Green
+Arabica,Caturra,Washed / Wet,82.92,0.11,Green
+Arabica,Caturra,Natural / Dry,82.92,0.0,Bluish-Green
+Arabica,Bourbon,Washed / Wet,82.92,0.11,Green
+Arabica,Other,Washed / Wet,82.92,0.11,Green
+Arabica,Typica,Natural / Dry,82.92,0.1,Green
+Arabica,Typica,Washed / Wet,82.92,0.14,Green
+Arabica,Hawaiian Kona,Washed / Wet,82.92,0.1,Green
+Arabica,SL28,Washed / Wet,82.83,0.1,Green
+Arabica,Bourbon,Washed / Wet,82.83,0.11,Green
+Arabica,Yellow Bourbon,Pulped natural / honey,82.83,0.11,Bluish-Green
+Arabica,Pacas,Washed / Wet,82.83,0.0,Green
+Arabica,Bourbon,Washed / Wet,82.83,0.11,Bluish-Green
+Arabica,Other,Other,82.83,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.83,0.11,Green
+Arabica,Catuai,Natural / Dry,82.83,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.83,0.1,Green
+Arabica,Typica,Natural / Dry,82.83,0.0,Green
+Arabica,Caturra,Washed / Wet,82.83,0.11,Green
+Arabica,Arusha,Washed / Wet,82.83,0.11,Green
+Arabica,Caturra,Washed / Wet,82.83,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.83,0.12,Blue-Green
+Arabica,Bourbon,Washed / Wet,82.83,0.11,Green
+Arabica,Caturra,Washed / Wet,82.75,0.1,Green
+Arabica,Caturra,Washed / Wet,82.75,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.75,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.75,0.1,Green
+Arabica,Bourbon,Washed / Wet,82.75,0.1,Green
+Arabica,Sulawesi,Other,82.75,0.12,Blue-Green
+Arabica,Bourbon,Washed / Wet,82.75,0.12,Green
+Arabica,Yellow Bourbon,Natural / Dry,82.75,0.0,Green
+Arabica,Caturra,Washed / Wet,82.75,0.09,Bluish-Green
+Arabica,Caturra,Natural / Dry,82.75,0.09,Green
+Arabica,Yellow Bourbon,Pulped natural / honey,82.75,0.11,Bluish-Green
+Arabica,Catimor,Natural / Dry,82.75,0.1,Green
+Arabica,Catimor,Washed / Wet,82.75,0.11,Green
+Arabica,Caturra,Washed / Wet,82.75,0.0,Blue-Green
+Arabica,Gesha,Washed / Wet,82.75,0.12,Bluish-Green
+Arabica,Pacas,Washed / Wet,82.75,0.13,Green
+Arabica,Typica,Washed / Wet,82.75,0.12,Green
+Arabica,Hawaiian Kona,Natural / Dry,82.75,0.1,Blue-Green
+Arabica,Hawaiian Kona,Natural / Dry,82.75,0.1,Green
+Arabica,Caturra,Washed / Wet,82.75,0.1,Green
+Arabica,Typica,Washed / Wet,82.75,0.12,Green
+Arabica,Caturra,Washed / Wet,82.75,0.0,Blue-Green
+Arabica,Caturra,Washed / Wet,82.75,0.11,Green
+Arabica,Hawaiian Kona,Washed / Wet,82.75,0.12,Green
+Arabica,Catuai,Washed / Wet,82.75,0.0,Green
+Arabica,Bourbon,Natural / Dry,82.67,0.0,Green
+Arabica,Bourbon,Natural / Dry,82.67,0.11,Bluish-Green
+Arabica,Catimor,Washed / Wet,82.67,0.13,Bluish-Green
+Arabica,Pacas,Washed / Wet,82.67,0.0,Green
+Arabica,Yellow Bourbon,Natural / Dry,82.67,0.0,Green
+Arabica,Other,Washed / Wet,82.67,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.67,0.12,Green
+Arabica,Typica,Washed / Wet,82.67,0.08,Green
+Arabica,Typica,Natural / Dry,82.67,0.11,Green
+Arabica,SL14,Washed / Wet,82.67,0.12,Green
+Arabica,Typica,Washed / Wet,82.67,0.11,Green
+Arabica,Caturra,Washed / Wet,82.67,0.11,Bluish-Green
+Arabica,Caturra,Washed / Wet,82.67,0.11,Bluish-Green
+Arabica,Caturra,Washed / Wet,82.67,0.11,Green
+Arabica,Other,Washed / Wet,82.67,0.12,Bluish-Green
+Arabica,Bourbon,Washed / Wet,82.58,0.1,Green
+Arabica,Typica,Pulped natural / honey,82.58,0.11,Green
+Arabica,Typica,Semi-washed / Semi-pulped,82.58,0.13,Blue-Green
+Arabica,Caturra,Washed / Wet,82.58,0.12,Blue-Green
+Arabica,SL14,Natural / Dry,82.58,0.12,Green
+Arabica,Catuai,Washed / Wet,82.58,0.11,Green
+Arabica,Caturra,Washed / Wet,82.58,0.11,Blue-Green
+Arabica,Caturra,Washed / Wet,82.58,0.11,Green
+Arabica,Typica,Washed / Wet,82.58,0.1,Green
+Arabica,Typica,Washed / Wet,82.58,0.12,Green
+Arabica,Caturra,Washed / Wet,82.58,0.11,Green
+Arabica,Bourbon,Natural / Dry,82.5,0.11,Green
+Arabica,Other,Washed / Wet,82.5,0.11,Green
+Arabica,Caturra,Washed / Wet,82.5,0.1,Green
+Arabica,Bourbon,Washed / Wet,82.5,0.1,Green
+Arabica,Other,Washed / Wet,82.5,0.12,Green
+Arabica,Other,Washed / Wet,82.5,0.12,Bluish-Green
+Arabica,Other,Washed / Wet,82.5,0.0,Green
+Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,82.5,0.11,Bluish-Green
+Arabica,Bourbon,Washed / Wet,82.5,0.12,Green
+Arabica,Caturra,Washed / Wet,82.5,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.5,0.11,Green
+Arabica,Typica,Washed / Wet,82.5,0.12,Green
+Arabica,Caturra,Natural / Dry,82.5,0.11,Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,82.5,0.0,Blue-Green
+Arabica,Caturra,Washed / Wet,82.5,0.11,Green
+Arabica,Hawaiian Kona,Washed / Wet,82.5,0.12,Green
+Arabica,Other,Washed / Wet,82.42,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.42,0.1,Green
+Arabica,Bourbon,Washed / Wet,82.42,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.42,0.12,Green
+Arabica,Caturra,Washed / Wet,82.42,0.11,Green
+Arabica,Caturra,Washed / Wet,82.42,0.11,Green
+Arabica,Catimor,Washed / Wet,82.42,0.1,Green
+Arabica,Ruiru 11,Washed / Wet,82.42,0.13,Green
+Arabica,Yellow Bourbon,Natural / Dry,82.42,0.0,Green
+Arabica,Caturra,Washed / Wet,82.42,0.1,Green
+Arabica,Typica,Washed / Wet,82.42,0.11,Green
+Arabica,Catuai,Semi-washed / Semi-pulped,82.42,0.12,Blue-Green
+Arabica,Yellow Bourbon,Natural / Dry,82.42,0.0,Green
+Arabica,Bourbon,Washed / Wet,82.42,0.12,Green
+Arabica,Caturra,Washed / Wet,82.42,0.11,Green
+Arabica,Typica,Washed / Wet,82.42,0.12,Green
+Arabica,Typica,Semi-washed / Semi-pulped,82.42,0.13,Green
+Arabica,Typica,Washed / Wet,82.42,0.14,Green
+Arabica,Caturra,Washed / Wet,82.42,0.13,Green
+Arabica,Typica,Washed / Wet,82.42,0.11,Green
+Arabica,Pacamara,Washed / Wet,82.42,0.14,Green
+Arabica,Caturra,Washed / Wet,82.42,0.11,Green
+Arabica,Typica,Washed / Wet,82.42,0.12,Bluish-Green
+Arabica,Arusha,Natural / Dry,82.42,0.11,Blue-Green
+Arabica,Caturra,Washed / Wet,82.42,0.0,Green
+Arabica,Caturra,Washed / Wet,82.33,0.1,Green
+Arabica,Catuai,Natural / Dry,82.33,0.11,Green
+Arabica,Bourbon,Natural / Dry,82.33,0.11,Bluish-Green
+Arabica,Caturra,Washed / Wet,82.33,0.1,Bluish-Green
+Arabica,Catuai,Washed / Wet,82.33,0.0,Green
+Arabica,Catimor,Pulped natural / honey,82.33,0.12,Green
+Arabica,Bourbon,Natural / Dry,82.33,0.07,Green
+Arabica,Mundo Novo,Natural / Dry,82.33,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.33,0.1,Green
+Arabica,Gesha,Washed / Wet,82.33,0.12,Green
+Arabica,Bourbon,Natural / Dry,82.33,0.11,Blue-Green
+Arabica,Pacas,Washed / Wet,82.33,0.12,Green
+Arabica,Caturra,Washed / Wet,82.33,0.1,Green
+Arabica,Typica,Semi-washed / Semi-pulped,82.33,0.11,Green
+Arabica,Typica,Washed / Wet,82.33,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.33,0.12,Green
+Arabica,Caturra,Washed / Wet,82.33,0.0,Green
+Arabica,Typica,Washed / Wet,82.33,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.33,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.33,0.13,Green
+Arabica,Bourbon,Washed / Wet,82.33,0.1,Green
+Arabica,Mundo Novo,Natural / Dry,82.33,0.12,Green
+Arabica,Typica,Washed / Wet,82.33,0.11,Green
+Arabica,Mundo Novo,Washed / Wet,82.33,0.11,Green
+Arabica,Caturra,Natural / Dry,82.33,0.0,Green
+Arabica,Catuai,Washed / Wet,82.25,0.09,Green
+Arabica,Pacas,Washed / Wet,82.25,0.11,Green
+Arabica,Yellow Bourbon,Natural / Dry,82.25,0.0,Green
+Arabica,Bourbon,Washed / Wet,82.25,0.12,Green
+Arabica,Catuai,Washed / Wet,82.25,0.11,Green
+Arabica,Gesha,Washed / Wet,82.25,0.13,Blue-Green
+Arabica,Bourbon,Natural / Dry,82.25,0.11,Green
+Arabica,Typica,Washed / Wet,82.25,0.11,Green
+Arabica,Mundo Novo,Washed / Wet,82.25,0.12,Blue-Green
+Arabica,Hawaiian Kona,Natural / Dry,82.25,0.0,Bluish-Green
+Arabica,Bourbon,Washed / Wet,82.25,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.25,0.13,Green
+Arabica,Typica,Washed / Wet,82.25,0.12,Green
+Arabica,Other,Washed / Wet,82.25,0.0,Green
+Arabica,Typica,Washed / Wet,82.25,0.11,Green
+Arabica,Typica,Washed / Wet,82.25,0.1,Green
+Arabica,Caturra,Washed / Wet,82.25,0.12,Green
+Arabica,Caturra,Washed / Wet,82.25,0.11,Green
+Arabica,Arusha,Natural / Dry,82.25,0.12,Green
+Arabica,Bourbon,Natural / Dry,82.17,0.11,Green
+Arabica,Caturra,Washed / Wet,82.17,0.11,Bluish-Green
+Arabica,Bourbon,Washed / Wet,82.17,0.13,Green
+Arabica,Other,Washed / Wet,82.17,0.12,Green
+Arabica,Yellow Bourbon,Natural / Dry,82.17,0.0,Green
+Arabica,Catuai,Washed / Wet,82.17,0.11,Green
+Arabica,Bourbon,Washed / Wet,82.17,0.09,Blue-Green
+Arabica,Mundo Novo,Natural / Dry,82.17,0.12,Green
+Arabica,Other,Washed / Wet,82.17,0.12,Green
+Arabica,Other,Washed / Wet,82.17,0.12,Green
+Arabica,Typica,Other,82.17,0.11,Green
+Arabica,Typica,Washed / Wet,82.17,0.0,Green
+Arabica,Caturra,Washed / Wet,82.17,0.0,Bluish-Green
+Arabica,Typica,Washed / Wet,82.17,0.12,Green
+Arabica,Typica,Washed / Wet,82.17,0.1,Green
+Arabica,Caturra,Washed / Wet,82.08,0.0,Green
+Arabica,Bourbon,Natural / Dry,82.08,0.11,Green
+Arabica,Yellow Bourbon,Natural / Dry,82.08,0.0,Green
+Arabica,Caturra,Washed / Wet,82.08,0.0,Blue-Green
+Arabica,Bourbon,Washed / Wet,82.08,0.12,Green
+Arabica,Other,Washed / Wet,82.08,0.12,Green
+Arabica,Caturra,Washed / Wet,82.08,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,82.08,0.11,Bluish-Green
+Arabica,Typica,Washed / Wet,82.08,0.13,Green
+Arabica,Typica,Washed / Wet,82.08,0.13,Green
+Arabica,Typica,Washed / Wet,82.08,0.11,Green
+Arabica,Other,Natural / Dry,82.08,0.12,Green
+Arabica,Typica,Washed / Wet,82.08,0.11,Green
+Arabica,Hawaiian Kona,Washed / Wet,82.08,0.1,Green
+Arabica,Caturra,Washed / Wet,82.0,0.12,Green
+Arabica,Caturra,Natural / Dry,82.0,0.1,Green
+Arabica,Bourbon,Natural / Dry,82.0,0.11,Green
+Arabica,Other,Washed / Wet,82.0,0.13,Green
+Arabica,Other,Washed / Wet,82.0,0.12,Blue-Green
+Arabica,Other,Washed / Wet,82.0,0.12,Green
+Arabica,Gesha,Washed / Wet,82.0,0.13,Bluish-Green
+Arabica,Typica,Washed / Wet,82.0,0.09,Green
+Arabica,Catuai,Washed / Wet,82.0,0.1,Green
+Arabica,Caturra,Washed / Wet,82.0,0.11,Green
+Arabica,Caturra,Washed / Wet,82.0,0.11,Green
+Arabica,Typica,Washed / Wet,82.0,0.12,Bluish-Green
+Arabica,Mundo Novo,Natural / Dry,82.0,0.11,Blue-Green
+Arabica,Typica,Washed / Wet,82.0,0.12,Green
+Arabica,Mundo Novo,Natural / Dry,82.0,0.12,Green
+Arabica,Catuai,Semi-washed / Semi-pulped,82.0,0.11,Blue-Green
+Arabica,Bourbon,Natural / Dry,82.0,0.11,Green
+Arabica,Mundo Novo,Semi-washed / Semi-pulped,82.0,0.12,Green
+Arabica,Bourbon,Washed / Wet,82.0,0.0,Green
+Arabica,Bourbon,Washed / Wet,81.92,0.1,Green
+Arabica,Bourbon,Washed / Wet,81.92,0.11,Green
+Arabica,Caturra,Washed / Wet,81.92,0.12,Green
+Arabica,Catuai,Natural / Dry,81.92,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.92,0.11,Green
+Arabica,Catuai,Washed / Wet,81.92,0.11,Green
+Arabica,Other,Washed / Wet,81.92,0.12,Green
+Arabica,Typica,Other,81.92,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.92,0.12,Green
+Arabica,Other,Washed / Wet,81.92,0.12,Green
+Arabica,Bourbon,Washed / Wet,81.92,0.12,Green
+Arabica,Mundo Novo,Natural / Dry,81.92,0.12,Green
+Arabica,Bourbon,Washed / Wet,81.83,0.1,Green
+Arabica,Catuai,Pulped natural / honey,81.83,0.0,Green
+Arabica,Mundo Novo,Natural / Dry,81.83,0.11,Green
+Arabica,Other,Other,81.83,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.83,0.1,Green
+Arabica,Yellow Bourbon,Natural / Dry,81.83,0.0,Green
+Arabica,Yellow Bourbon,Natural / Dry,81.83,0.0,Green
+Arabica,Catuai,Washed / Wet,81.83,0.0,Green
+Arabica,Catuai,Washed / Wet,81.83,0.11,Green
+Arabica,Catuai,Washed / Wet,81.83,0.12,Green
+Arabica,Caturra,Washed / Wet,81.83,0.09,Green
+Arabica,Typica,Washed / Wet,81.83,0.0,Green
+Arabica,Gesha,Washed / Wet,81.83,0.13,Green
+Arabica,Bourbon,Natural / Dry,81.83,0.11,Green
+Arabica,Caturra,Natural / Dry,81.83,0.1,Green
+Arabica,Typica,Washed / Wet,81.83,0.11,Green
+Arabica,Caturra,Washed / Wet,81.83,0.0,Bluish-Green
+Arabica,Hawaiian Kona,Natural / Dry,81.83,0.0,Bluish-Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,81.83,0.12,Bluish-Green
+Arabica,Bourbon,Washed / Wet,81.83,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.83,0.12,Green
+Arabica,Typica,Semi-washed / Semi-pulped,81.83,0.12,Green
+Arabica,Bourbon,Washed / Wet,81.75,0.11,Green
+Arabica,Caturra,Washed / Wet,81.75,0.12,Bluish-Green
+Arabica,Other,Washed / Wet,81.75,0.12,Bluish-Green
+Arabica,Mundo Novo,Washed / Wet,81.75,0.13,Green
+Arabica,Typica,Washed / Wet,81.75,0.11,Green
+Arabica,Caturra,Washed / Wet,81.75,0.12,Green
+Arabica,Caturra,Washed / Wet,81.75,0.0,Green
+Arabica,Bourbon,Natural / Dry,81.67,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.67,0.1,Green
+Arabica,Bourbon,Washed / Wet,81.67,0.12,Green
+Arabica,Catuai,Washed / Wet,81.67,0.11,Blue-Green
+Arabica,Yellow Bourbon,Natural / Dry,81.67,0.0,Green
+Arabica,Other,Washed / Wet,81.67,0.12,Green
+Arabica,Other,Washed / Wet,81.67,0.12,Green
+Arabica,Bourbon,Washed / Wet,81.67,0.1,Green
+Arabica,Sumatra,Semi-washed / Semi-pulped,81.67,0.11,Bluish-Green
+Arabica,Caturra,Natural / Dry,81.67,0.1,Green
+Arabica,Caturra,Washed / Wet,81.67,0.11,Green
+Arabica,Typica,Semi-washed / Semi-pulped,81.67,0.11,Green
+Arabica,Typica,Washed / Wet,81.67,0.11,Green
+Arabica,Typica,Washed / Wet,81.67,0.12,Green
+Arabica,Bourbon,Washed / Wet,81.67,0.11,Green
+Arabica,Typica,Washed / Wet,81.67,0.13,Green
+Arabica,Bourbon,Washed / Wet,81.67,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.67,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.67,0.11,Green
+Arabica,Caturra,Semi-washed / Semi-pulped,81.67,0.11,Green
+Arabica,Hawaiian Kona,Washed / Wet,81.67,0.1,Green
+Arabica,Catimor,Washed / Wet,81.58,0.11,Blue-Green
+Arabica,Bourbon,Washed / Wet,81.58,0.12,Green
+Arabica,Typica,Washed / Wet,81.58,0.1,Blue-Green
+Arabica,Caturra,Washed / Wet,81.58,0.12,Green
+Arabica,Other,Washed / Wet,81.58,0.12,Green
+Arabica,Gesha,Washed / Wet,81.58,0.13,Green
+Arabica,Yellow Bourbon,Washed / Wet,81.58,0.12,Blue-Green
+Arabica,Bourbon,Washed / Wet,81.58,0.12,Green
+Arabica,Typica,Washed / Wet,81.58,0.12,Green
+Arabica,Bourbon,Washed / Wet,81.5,0.1,Green
+Arabica,Caturra,Other,81.5,0.11,Green
+Arabica,Caturra,Washed / Wet,81.5,0.1,Green
+Arabica,Typica,Natural / Dry,81.5,0.12,Green
+Arabica,Catuai,Washed / Wet,81.5,0.0,Green
+Arabica,Caturra,Washed / Wet,81.5,0.12,Green
+Arabica,Gesha,Washed / Wet,81.5,0.12,Green
+Arabica,Other,Washed / Wet,81.5,0.12,Green
+Arabica,Typica,Washed / Wet,81.5,0.11,Blue-Green
+Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,81.5,0.0,Green
+Arabica,Blue Mountain,Washed / Wet,81.5,0.11,Bluish-Green
+Arabica,Typica,Other,81.5,0.11,Green
+Arabica,Typica,Washed / Wet,81.5,0.13,Green
+Arabica,Typica,Washed / Wet,81.5,0.12,Green
+Arabica,Catuai,Washed / Wet,81.5,0.12,Green
+Arabica,Typica,Semi-washed / Semi-pulped,81.5,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.5,0.13,Green
+Arabica,Typica,Natural / Dry,81.5,0.11,Green
+Arabica,Other,Washed / Wet,81.5,0.12,Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,81.5,0.12,Blue-Green
+Arabica,Bourbon,Washed / Wet,81.5,0.11,Green
+Arabica,Mundo Novo,Washed / Wet,81.42,0.12,Green
+Arabica,Catuai,Washed / Wet,81.42,0.1,Green
+Arabica,Catuai,Natural / Dry,81.42,0.11,Green
+Arabica,Catuai,Washed / Wet,81.42,0.12,Green
+Arabica,Typica,Washed / Wet,81.42,0.12,Green
+Arabica,Gesha,Washed / Wet,81.42,0.12,Bluish-Green
+Arabica,Bourbon,Natural / Dry,81.42,0.0,Green
+Arabica,Bourbon,Washed / Wet,81.42,0.1,Green
+Arabica,Typica,Washed / Wet,81.42,0.0,Green
+Arabica,Bourbon,Washed / Wet,81.42,0.12,Green
+Arabica,Caturra,Natural / Dry,81.42,0.11,Green
+Arabica,Caturra,Washed / Wet,81.33,0.11,Bluish-Green
+Arabica,Catuai,Natural / Dry,81.33,0.11,Green
+Arabica,Catuai,Washed / Wet,81.33,0.09,Green
+Arabica,Yellow Bourbon,Other,81.33,0.12,Green
+Arabica,Other,Washed / Wet,81.33,0.14,Green
+Arabica,Gesha,Washed / Wet,81.33,0.13,Green
+Arabica,Catuai,Washed / Wet,81.33,0.12,Green
+Arabica,Typica,Washed / Wet,81.33,0.13,Green
+Arabica,Catuai,Natural / Dry,81.33,0.11,Green
+Arabica,Typica,Natural / Dry,81.25,0.12,Green
+Arabica,Yellow Bourbon,Natural / Dry,81.25,0.0,Green
+Arabica,Catuai,Washed / Wet,81.25,0.1,Green
+Arabica,Catuai,Washed / Wet,81.25,0.12,Green
+Arabica,Pacamara,Washed / Wet,81.25,0.09,Bluish-Green
+Arabica,Other,Washed / Wet,81.25,0.13,Green
+Arabica,Typica,Semi-washed / Semi-pulped,81.25,0.11,Green
+Arabica,Caturra,Washed / Wet,81.25,0.11,Green
+Arabica,Typica,Washed / Wet,81.25,0.12,Green
+Arabica,Bourbon,Washed / Wet,81.17,0.12,Green
+Arabica,Caturra,Washed / Wet,81.17,0.12,Green
+Arabica,Caturra,Washed / Wet,81.17,0.11,Bluish-Green
+Arabica,Catuai,Natural / Dry,81.17,0.13,Green
+Arabica,Caturra,Washed / Wet,81.17,0.12,Blue-Green
+Arabica,Bourbon,Washed / Wet,81.17,0.12,Bluish-Green
+Arabica,Caturra,Washed / Wet,81.17,0.12,Green
+Arabica,Catuai,Washed / Wet,81.17,0.11,Green
+Arabica,Catuai,Natural / Dry,81.17,0.11,Green
+Arabica,Typica,Natural / Dry,81.17,0.13,Green
+Arabica,Caturra,Washed / Wet,81.17,0.12,Green
+Arabica,Mundo Novo,Natural / Dry,81.17,0.12,Green
+Arabica,Mundo Novo,Natural / Dry,81.08,0.11,Green
+Arabica,Other,Washed / Wet,81.08,0.13,Green
+Arabica,Caturra,Washed / Wet,81.08,0.13,Green
+Arabica,Other,Washed / Wet,81.08,0.0,Green
+Arabica,Typica,Washed / Wet,81.08,0.12,Green
+Arabica,Typica,Washed / Wet,81.08,0.11,Green
+Arabica,Typica,Washed / Wet,81.08,0.1,Green
+Arabica,Hawaiian Kona,Washed / Wet,81.08,0.06,Blue-Green
+Arabica,Bourbon,Pulped natural / honey,81.0,0.11,Green
+Arabica,Bourbon,Washed / Wet,81.0,0.0,Green
+Arabica,Yellow Bourbon,Pulped natural / honey,81.0,0.11,Bluish-Green
+Arabica,Bourbon,Washed / Wet,81.0,0.09,Green
+Arabica,Caturra,Washed / Wet,81.0,0.0,Green
+Arabica,Bourbon,Washed / Wet,81.0,0.11,Green
+Arabica,Typica,Washed / Wet,81.0,0.12,Bluish-Green
+Arabica,Caturra,Natural / Dry,81.0,0.12,Green
+Arabica,Mundo Novo,Natural / Dry,81.0,0.12,Green
+Arabica,Other,Washed / Wet,81.0,0.12,Green
+Arabica,SL14,Natural / Dry,81.0,0.12,Green
+Arabica,Typica,Semi-washed / Semi-pulped,81.0,0.11,Green
+Arabica,Other,Washed / Wet,81.0,0.12,Green
+Arabica,Typica,Washed / Wet,81.0,0.0,Green
+Arabica,Other,Washed / Wet,80.92,0.0,Blue-Green
+Arabica,Bourbon,Washed / Wet,80.92,0.1,Green
+Arabica,SL28,Washed / Wet,80.92,0.11,Green
+Arabica,Bourbon,Washed / Wet,80.92,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,80.92,0.1,Bluish-Green
+Arabica,Other,Washed / Wet,80.92,0.12,Green
+Arabica,Yellow Bourbon,Natural / Dry,80.92,0.12,Green
+Arabica,Typica,Washed / Wet,80.92,0.09,Green
+Arabica,Caturra,Washed / Wet,80.92,0.1,Green
+Arabica,Pacas,Washed / Wet,80.92,0.12,Green
+Arabica,Typica,Other,80.92,0.11,Green
+Arabica,Typica,Washed / Wet,80.92,0.11,Green
+Arabica,Typica,Washed / Wet,80.92,0.13,Green
+Arabica,Catimor,Washed / Wet,80.83,0.0,Green
+Arabica,Caturra,Washed / Wet,80.83,0.11,Green
+Arabica,Catuai,Semi-washed / Semi-pulped,80.83,0.13,Green
+Arabica,Typica,Washed / Wet,80.83,0.11,Green
+Arabica,Bourbon,Washed / Wet,80.83,0.13,Green
+Arabica,Hawaiian Kona,Washed / Wet,80.83,0.1,Blue-Green
+Arabica,Catuai,Washed / Wet,80.75,0.0,Green
+Arabica,Caturra,Washed / Wet,80.75,0.12,Green
+Arabica,Other,Washed / Wet,80.75,0.12,Green
+Arabica,Caturra,Natural / Dry,80.75,0.11,Green
+Arabica,Caturra,Other,80.75,0.11,Green
+Arabica,Catuai,Washed / Wet,80.75,0.09,Green
+Arabica,Catuai,Natural / Dry,80.75,0.13,Green
+Arabica,Caturra,Washed / Wet,80.75,0.11,Green
+Arabica,Typica,Washed / Wet,80.75,0.11,Green
+Arabica,Typica,Washed / Wet,80.75,0.12,Green
+Arabica,Arusha,Natural / Dry,80.75,0.13,Bluish-Green
+Arabica,Typica,Other,80.67,0.0,Green
+Arabica,Mandheling,Semi-washed / Semi-pulped,80.67,0.13,Blue-Green
+Arabica,Bourbon,Washed / Wet,80.67,0.11,Green
+Arabica,Caturra,Washed / Wet,80.67,0.11,Blue-Green
+Arabica,Caturra,Washed / Wet,80.67,0.12,Bluish-Green
+Arabica,Typica,Washed / Wet,80.67,0.12,Green
+Arabica,Bourbon,Washed / Wet,80.67,0.12,Green
+Arabica,Bourbon,Washed / Wet,80.67,0.11,Green
+Arabica,Bourbon,Washed / Wet,80.67,0.11,Green
+Arabica,Other,Washed / Wet,80.58,0.12,Bluish-Green
+Arabica,Bourbon,Semi-washed / Semi-pulped,80.58,0.0,Green
+Arabica,Caturra,Washed / Wet,80.58,0.11,Green
+Arabica,Bourbon,Natural / Dry,80.58,0.11,Green
+Arabica,Other,Natural / Dry,80.5,0.0,Blue-Green
+Arabica,Caturra,Washed / Wet,80.5,0.1,Green
+Arabica,Catuai,Washed / Wet,80.5,0.11,Green
+Arabica,Yellow Bourbon,Semi-washed / Semi-pulped,80.5,0.11,Green
+Arabica,Other,Washed / Wet,80.5,0.0,Green
+Arabica,Other,Washed / Wet,80.5,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,80.5,0.11,Green
+Arabica,Bourbon,Washed / Wet,80.5,0.12,Green
+Arabica,Typica,Washed / Wet,80.42,0.14,Green
+Arabica,Bourbon,Washed / Wet,80.42,0.0,Green
+Arabica,Other,Washed / Wet,80.42,0.17,Green
+Arabica,Typica,Washed / Wet,80.42,0.11,Green
+Arabica,Typica,Washed / Wet,80.42,0.1,Green
+Arabica,Caturra,Washed / Wet,80.42,0.12,Green
+Arabica,Bourbon,Washed / Wet,80.33,0.13,Green
+Arabica,Other,Washed / Wet,80.33,0.12,Bluish-Green
+Arabica,Yellow Bourbon,Other,80.33,0.11,Green
+Arabica,Bourbon,Washed / Wet,80.33,0.11,Green
+Arabica,Typica,Semi-washed / Semi-pulped,80.33,0.11,Green
+Arabica,Hawaiian Kona,Washed / Wet,80.33,0.12,Green
+Arabica,Catuai,Natural / Dry,80.25,0.11,Green
+Arabica,Caturra,Natural / Dry,80.25,0.1,Green
+Arabica,Caturra,Washed / Wet,80.25,0.1,Green
+Arabica,Other,Natural / Dry,80.25,0.11,Green
+Arabica,Catuai,Natural / Dry,80.25,0.0,Green
+Arabica,Caturra,Washed / Wet,80.25,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,80.25,0.12,Green
+Arabica,Typica,Washed / Wet,80.25,0.1,Green
+Arabica,Typica,Semi-washed / Semi-pulped,80.25,0.11,Green
+Arabica,Caturra,Washed / Wet,80.25,0.11,Green
+Arabica,Catuai,Washed / Wet,80.17,0.11,Green
+Arabica,Bourbon,Washed / Wet,80.17,0.11,Green
+Arabica,Typica,Washed / Wet,80.17,0.11,Green
+Arabica,Typica,Washed / Wet,80.17,0.14,Green
+Arabica,Bourbon,Washed / Wet,80.17,0.12,Green
+Arabica,Bourbon,Washed / Wet,80.17,0.11,Green
+Arabica,Bourbon,Pulped natural / honey,80.08,0.11,Green
+Arabica,Typica,Washed / Wet,80.08,0.07,Green
+Arabica,Typica,Other,80.08,0.11,Green
+Arabica,Typica,Washed / Wet,80.08,0.11,Green
+Arabica,Typica,Semi-washed / Semi-pulped,80.08,0.11,Green
+Arabica,Typica,Washed / Wet,80.08,0.14,Green
+Arabica,Caturra,Washed / Wet,80.0,0.1,Green
+Arabica,Other,Washed / Wet,80.0,0.0,Green
+Arabica,Typica,Washed / Wet,80.0,0.0,Green
+Arabica,Typica,Washed / Wet,80.0,0.11,Green
+Arabica,Typica,Washed / Wet,80.0,0.12,Green
+Arabica,Other,Washed / Wet,80.0,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,79.92,0.11,Green
+Arabica,Bourbon,Washed / Wet,79.92,0.12,Green
+Arabica,Other,Washed / Wet,79.92,0.12,Green
+Arabica,Catuai,Washed / Wet,79.92,0.11,Green
+Arabica,Typica,Natural / Dry,79.92,0.12,Green
+Arabica,Mundo Novo,Washed / Wet,79.92,0.11,Green
+Arabica,Bourbon,Washed / Wet,79.83,0.1,Green
+Arabica,Caturra,Washed / Wet,79.83,0.11,Green
+Arabica,Typica,Washed / Wet,79.83,0.12,Green
+Arabica,Hawaiian Kona,Natural / Dry,79.83,0.12,Blue-Green
+Arabica,Bourbon,Washed / Wet,79.75,0.1,Green
+Arabica,Typica,Washed / Wet,79.75,0.1,Blue-Green
+Arabica,Catuai,Washed / Wet,79.75,0.1,Bluish-Green
+Arabica,Typica,Washed / Wet,79.75,0.12,Green
+Arabica,Bourbon,Washed / Wet,79.75,0.13,Green
+Arabica,Bourbon,Washed / Wet,79.75,0.12,Green
+Arabica,Typica,Washed / Wet,79.75,0.1,Green
+Arabica,Bourbon,Washed / Wet,79.75,0.0,Green
+Arabica,Bourbon,Washed / Wet,79.67,0.1,Green
+Arabica,Bourbon,Washed / Wet,79.67,0.0,Bluish-Green
+Arabica,Bourbon,Washed / Wet,79.67,0.11,Green
+Arabica,Typica,Washed / Wet,79.67,0.12,Green
+Arabica,Caturra,Washed / Wet,79.58,0.13,Green
+Arabica,Caturra,Natural / Dry,79.5,0.12,Green
+Arabica,Caturra,Washed / Wet,79.5,0.0,Green
+Arabica,Caturra,Washed / Wet,79.5,0.12,Green
+Arabica,Typica,Washed / Wet,79.5,0.12,Bluish-Green
+Arabica,Bourbon,Washed / Wet,79.42,0.1,Green
+Arabica,Other,Washed / Wet,79.42,0.1,Green
+Arabica,Typica,Washed / Wet,79.42,0.13,Green
+Arabica,Caturra,Washed / Wet,79.33,0.0,Green
+Arabica,Typica,Washed / Wet,79.33,0.14,Green
+Arabica,Bourbon,Washed / Wet,79.33,0.11,Green
+Arabica,Typica,Washed / Wet,79.25,0.11,Blue-Green
+Arabica,Bourbon,Washed / Wet,79.25,0.13,Green
+Arabica,Bourbon,Washed / Wet,79.17,0.1,Green
+Arabica,Catuai,Washed / Wet,79.17,0.11,Green
+Arabica,Bourbon,Washed / Wet,79.17,0.11,Green
+Arabica,Catuai,Washed / Wet,79.17,0.11,Green
+Arabica,Typica,Washed / Wet,79.17,0.14,Green
+Arabica,Bourbon,Washed / Wet,79.08,0.1,Green
+Arabica,Other,Washed / Wet,79.08,0.13,Green
+Arabica,Mundo Novo,Washed / Wet,79.08,0.11,Green
+Arabica,Typica,Washed / Wet,79.08,0.1,Bluish-Green
+Arabica,Other,Washed / Wet,79.0,0.12,Green
+Arabica,Pacas,Washed / Wet,79.0,0.11,Green
+Arabica,Typica,Semi-washed / Semi-pulped,79.0,0.14,Green
+Arabica,Typica,Washed / Wet,79.0,0.14,Green
+Arabica,Typica,Washed / Wet,78.92,0.12,Green
+Arabica,Caturra,Other,78.83,0.1,Green
+Arabica,Bourbon,Washed / Wet,78.75,0.12,Green
+Arabica,Typica,Washed / Wet,78.75,0.14,Green
+Arabica,Typica,Washed / Wet,78.67,0.0,Green
+Arabica,Other,Washed / Wet,78.58,0.12,Green
+Arabica,Typica,Washed / Wet,78.58,0.1,Green
+Arabica,Typica,Washed / Wet,78.58,0.13,Green
+Arabica,Bourbon,Washed / Wet,78.5,0.0,Green
+Arabica,Caturra,Washed / Wet,78.5,0.13,Green
+Arabica,Catuai,Natural / Dry,78.42,0.12,Green
+Arabica,Hawaiian Kona,Natural / Dry,78.33,0.1,Bluish-Green
+Arabica,Other,Washed / Wet,78.33,0.1,Green
+Arabica,Bourbon,Washed / Wet,78.33,0.11,Green
+Arabica,Typica,Natural / Dry,78.33,0.13,Green
+Arabica,Bourbon,Washed / Wet,78.33,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,78.25,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,78.25,0.11,Green
+Arabica,Typica,Washed / Wet,78.08,0.11,Green
+Arabica,Yellow Bourbon,Washed / Wet,78.0,0.0,Green
+Arabica,Pacas,Natural / Dry,78.0,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,78.0,0.12,Green
+Arabica,Other,Washed / Wet,78.0,0.1,Green
+Arabica,Typica,Washed / Wet,78.0,0.1,Green
+Arabica,Bourbon,Washed / Wet,78.0,0.11,Green
+Arabica,Other,Washed / Wet,78.0,0.12,Green
+Arabica,Caturra,Washed / Wet,77.92,0.12,Green
+Arabica,Typica,Washed / Wet,77.92,0.11,Green
+Arabica,Bourbon,Washed / Wet,77.92,0.11,Green
+Arabica,Bourbon,Washed / Wet,77.83,0.11,Green
+Arabica,Typica,Washed / Wet,77.67,0.11,Bluish-Green
+Arabica,Typica,Washed / Wet,77.5,0.13,Green
+Arabica,Bourbon,Washed / Wet,77.42,0.11,Green
+Arabica,Bourbon,Natural / Dry,77.33,0.0,Green
+Arabica,Other,Washed / Wet,77.33,0.1,Green
+Arabica,Other,Washed / Wet,77.17,0.12,Green
+Arabica,Caturra,Washed / Wet,77.0,0.0,Green
+Arabica,Typica,Washed / Wet,76.42,0.13,Green
+Arabica,Bourbon,Washed / Wet,76.33,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,76.25,0.0,Green
+Arabica,Bourbon,Washed / Wet,76.08,0.12,Green
+Arabica,Pacas,Natural / Dry,76.0,0.11,Green
+Arabica,Bourbon,Washed / Wet,75.58,0.11,Green
+Arabica,Pacamara,Washed / Wet,75.5,0.11,Green
+Arabica,Mundo Novo,Washed / Wet,75.17,0.11,Green
+Arabica,Typica,Washed / Wet,75.17,0.13,Bluish-Green
+Arabica,Typica,Washed / Wet,75.0,0.14,Green
+Arabica,Typica,Washed / Wet,74.83,0.12,Green
+Arabica,Typica,Washed / Wet,74.67,0.12,Green
+Arabica,Hawaiian Kona,Natural / Dry,74.42,0.0,Blue-Green
+Arabica,Bourbon,Washed / Wet,74.33,0.11,Green
+Arabica,Typica,Washed / Wet,74.33,0.14,Green
+Arabica,Typica,Washed / Wet,73.83,0.12,Green
+Arabica,Pacas,Washed / Wet,73.42,0.11,Green
+Arabica,Hawaiian Kona,Natural / Dry,72.58,0.11,Green
+Arabica,Caturra,Washed / Wet,71.75,0.11,Green
+Arabica,Mundo Novo,Washed / Wet,71.08,0.12,Green
+Arabica,Bourbon,Washed / Wet,71.0,0.11,Green
+Arabica,Typica,Washed / Wet,70.75,0.12,Green
+Arabica,Catuai,Washed / Wet,69.33,0.1,Green
+Arabica,Catuai,Washed / Wet,69.17,0.1,Green
+Arabica,Catuai,Washed / Wet,69.17,0.1,Green
+Arabica,Typica,Natural / Dry,67.92,0.14,Blue-Green
+Arabica,Caturra,Other,63.08,0.13,Green
+Arabica,Catuai,Washed / Wet,59.83,0.1,Green
+Robusta,Other,Washed / Wet,82.5,0.09,Green
+Robusta,Other,Natural / Dry,81.58,0.11,Green
+Robusta,Arusha,Natural / Dry,79.33,0.0,Green
